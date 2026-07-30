@@ -1,0 +1,1 @@
+Simple File Editor is a console application written in C++ that lets users add, remove, replace, and view text records stored in a .txt file. It uses file streams (fstream) and vector<string> to manage file data, making it a simple project for learning file handling and basic C++ programming.
